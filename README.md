@@ -1,4 +1,4 @@
-#Ce petit programme est de type RMI .
+# Ce petit programme est de type RMI .
 
 -il permet de envoyer un message du serveur *(Qui est saisi par utilisateur)* au client . 
 
