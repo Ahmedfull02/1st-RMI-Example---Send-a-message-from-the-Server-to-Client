@@ -14,5 +14,5 @@
 
 3- Tant que le serveur est execute ,on execute le client:
 
-![Recevoir le message par le client .](Images/Capture2.PNG)
+![Recevoir le message par le client .](Images/Capture3.PNG)
 
